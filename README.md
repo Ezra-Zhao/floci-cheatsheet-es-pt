@@ -235,3 +235,5 @@ Armadilha conhecida: a imagem antiga `hectorvent/floci` não recebe mais atualiz
 ---
 
 Guía elaborada a partir de la documentación oficial del proyecto · Guia elaborada a partir da documentação oficial do projeto. El software pertenece a sus autores · O software pertence aos seus autores.
+
+📣 Telegram 频道：https://t.me/EzraZhao777（各平台的更新都同步到这里）
